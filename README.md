@@ -43,7 +43,7 @@ JavaScript       █████████▓░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nuymakstone&show_icons=true&theme=gotham" alt="nuymakstone" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuymakstone&theme=dark&layout=compact&hide=ruby&langs_count=8&card_width=300&hide_border=true" alt="nuymakstone" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nuymakstone&show_icons=true&theme=gotham" alt="nuymakstone" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuymakstone&theme=dark&layout=compact&hide=ruby&langs_count=8&card_width=300&hide_border=true" alt="nuymakstone" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuymakStone&show_icons=true&hide_border=true&theme=radical&count_private=true"/>
 
