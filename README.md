@@ -8,7 +8,11 @@
 
 hi, i'm [NuymakStone](https://github.com/NuymakStone), a passionate self-taught java bukkit developer and a freelance software engineer from China. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
+一位热情的自学java bukkit 开发人员和来自中国的自由软件工程师。 我对软件的热情在于构想创意并通过优雅的界面使它们成为现实。 我非常注意我构建的东西的体验、架构和代码质量。
+
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+我也是一个开源爱好者和维护者。 我从开源社区学到了很多东西，我喜欢通过开源实现协作和知识共享。
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
