@@ -5,12 +5,12 @@
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
-<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Java developer at <a href="nuymakstone.github.io">enjoei</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> computer science student</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>design enthusiast</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with science, tech, math & art</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="20vw"/> <em> platform games player</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> colorful post-it notes lover</em></p>
+<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> 一位自学Java爱好者 <a href="nuymakstone.github.io">自我介绍</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> 计算机科学学生</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>设计爱好者</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> 热爱科学、技术、数学和艺术</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="20vw"/> <em> 平台游戏玩家</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> 爱好多彩笔记的人</em></p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
