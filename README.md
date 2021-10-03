@@ -1,4 +1,5 @@
-### Hi, I'm NuymakStone <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">![](https://visitor-badge.glitch.me/badge?page_id=nuymakstone.nuymakstone)
+### Hi, I'm NuymakStone <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+![](https://visitor-badge.glitch.me/badge?page_id=nuymakstone.nuymakstone)
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
@@ -13,8 +14,6 @@
 <em> ~ 开源项目在下面 ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
 
 ⭐️ From [nuymakstone](https://github.com/nuymakstone)
-
-![](https://visitor-badge.glitch.me/badge?page_id=nuymakstone.nuymakstone)
 
 **languages and tools:**  
 
