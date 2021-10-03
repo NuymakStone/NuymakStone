@@ -27,6 +27,6 @@
 📈 my github stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NuymakStone&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuymakStone&layout=compact">
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuymakStone&layout=compact">
 
 
