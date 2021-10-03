@@ -24,23 +24,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **Proportion of my own development:**
-<!--START_SECTION:waka-->
-```text
-Java             ███████████████░░░░░░░░░░   59.42 % 
-JavaScript       █████████▓░░░░░░░░░░░░░░░   39.09 % 
-```
-<!--END_SECTION:waka-->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nuymakstone&show_icons=true&theme=gotham" alt="nuymakstone" />
