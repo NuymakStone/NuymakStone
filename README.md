@@ -26,6 +26,6 @@
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nuymakstone&show_icons=true&theme=gotham" alt="nuymakstone" />
+<p align="left"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=NuymakStone&show_icons=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuymakStone&show_icons=true&hide_border=true&theme=radical&count_private=true"/>
 
