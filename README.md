@@ -1,6 +1,6 @@
 ### Hi, I'm NuymakStone <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 ![](https://visitor-badge.glitch.me/badge?page_id=nuymakstone.nuymakstone)
-### 头像是我喜欢的女孩子用的头像（*゜ー゜*）
+### 头像是我喜欢的女孩子用的头像ヽ(✿ﾟ▽ﾟ)ノ
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> 一位自学Java爱好者 <a href="https://nuymakstone.github.io">自我介绍</em></p>
